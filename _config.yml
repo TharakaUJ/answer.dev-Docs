@@ -1,8 +1,8 @@
-title: MIDJ.app Documentation
-description: Documentation for MIDJ.app API
+title: answr.dev Documentation
+description: Documentation for answr.dev API
 theme: just-the-docs
 
-url: https://docs.midj.app
+url: https://docs.answr.dev
 
 aux_links:
   #Template Repository: https://github.com/just-the-docs/just-the-docs-template
@@ -23,16 +23,16 @@ color_scheme: dark
 
 # External navigation links
 nav_external_links:
-  - title: MIDJ NPM Module
-    url: https://www.npmjs.com/package/@twozerotwo/midj
-    hide_icon: true # set to true to hide the external link icon - defaults to false
-    hide_title: true
-    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
-    image: "/_images/midj-npm package.png"
+  # - title: MIDJ NPM Module
+  #   url: https://www.npmjs.com/package/@twozerotwo/midj
+  #   hide_icon: true # set to true to hide the external link icon - defaults to false
+  #   hide_title: true
+  #   opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+  #   image: "/_images/midj-npm package.png"
 
-  - title: Pypi
-    url: https://pypi.org/project/midjpy/
-    hide_icon: true
-    hide_title: true
-    opens_in_new_tab: false
-    image: "https://img.shields.io/pypi/v/midjpy"
+  # - title: Pypi
+  #   url: https://pypi.org/project/midjpy/
+  #   hide_icon: true
+  #   hide_title: true
+  #   opens_in_new_tab: false
+  #   image: "https://img.shields.io/pypi/v/midjpy"
