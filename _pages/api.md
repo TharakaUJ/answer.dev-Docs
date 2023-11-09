@@ -40,6 +40,13 @@ These are the additional headers you should specify for these api requests.
 1. Headers
 
 ![Postman Headers](/../_images/postman-headers.png "postman-headers")
+ **Note:** Notice that some headers are just the default headers.
+ - X-Berserker-Token
+ - Content-Type 
+
+ are headers that assigned specifically.
+
+
 
 2. Body
 
