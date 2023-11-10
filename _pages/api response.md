@@ -19,3 +19,5 @@ The response return a json dictionary.
 ...
 "urlToChainDestinationChanged":false,"urlToDelReasonTitle":"None","urlToDelReasonKey":"None","urlToHasDelReason":false,"lost_redirect_reason":"","del_reason":"","lost_redirect_source":"","lost_redirect_new_target":"","isLost":true}],"total":100}}]}}
 </code>
+
+view full sample [response...](/sample-res/)
