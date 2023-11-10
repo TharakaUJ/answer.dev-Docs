@@ -40,4 +40,4 @@ You can create as many tokens as you like.
 
 Now you are ready to use the API.
 
-[using API](/api/)
+[using API](/apireq/)
